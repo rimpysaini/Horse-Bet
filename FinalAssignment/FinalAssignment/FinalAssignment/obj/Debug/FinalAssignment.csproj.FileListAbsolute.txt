@@ -1,0 +1,14 @@
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+C:\Users\RIMPY\Desktop\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+C:\Academic-Projects\FinalAssignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
